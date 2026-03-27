@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Merhaba, ben Ali
 
-<!--
-**alialtuntas1/alialtuntas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gömülü sistemler ve robotik alanına ilgi duyan bir geliştiriciyim. Özellikle sensör tabanlı sistemler ve otonom robot projeleri üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Öğrenci / Geliştirici
+* 🤖 Robotik ve gömülü sistemler ile ilgileniyorum
+* 🔧 Arduino tabanlı projeler geliştiriyorum
+* 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
+
+## 🛠️ Yetenekler
+
+### Programlama Dilleri
+
+* C
+* C++
+* Temel Python
+
+### Araçlar & IDE’ler
+
+* Arduino IDE
+* VS Code
+* Git & GitHub
+
+## 📂 Projeler
+
+* 🔹 Çizgi İzleyen Robot
+  Beyaz zemin üzerindeki siyah çizgiyi takip eden otonom robot projesi.
+
+* 🔹 Engel Algılayan Robot
+  Sensörler ile engellerden kaçınabilen robot sistemi.
+
+## 📫 İletişim
+
+* 📧 Email: [example@mail.com](mailto:example@mail.com)
+* 💼 LinkedIn: (eklenebilir)
