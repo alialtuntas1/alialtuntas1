@@ -10,6 +10,12 @@ Gömülü sistemler ve robotik alanına ilgi duyan bir geliştiriciyim. Özellik
 * 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
 
 ## 🛠️ Yetenekler & Araçlar
+* HTML
+* CSS
+* Javascript
+* Python
+* C#
+* C++
 
 
 ## 📂 Projeler
