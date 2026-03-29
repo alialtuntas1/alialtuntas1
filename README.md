@@ -25,4 +25,4 @@ Gömülü sistemler ve robotik alanına ilgi duyan bir geliştiriciyim. Özellik
 
 ## 📫 İletişim
 
-* 📧 Email: [example@mail.com](mailto:example@mail.com)
+* 📧 Email: alialtuntas1official@gmail.com
