@@ -1,13 +1,6 @@
 # 👋 Merhaba, ben Ali
 
-Gömülü sistemler ve robotik alanına ilgi duyan bir geliştiriciyim. Özellikle sensör tabanlı sistemler ve otonom robot projeleri üzerinde çalışıyorum.
-
-## 🚀 Hakkımda
-
-* 🎓 Öğrenci / Geliştirici
-* 🤖 Robotik ve gömülü sistemler ile ilgileniyorum
-* 🔧 Arduino tabanlı projeler geliştiriyorum
-* 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
+20 yaşında Bilgisayar Programcısı bir genç.
 
 ## 🛠️ Yetenekler & Araçlar
 * HTML
