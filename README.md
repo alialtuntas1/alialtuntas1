@@ -1,8 +1,8 @@
-# 👋 Merhaba, ben Ali
+# 👋Hi, I'm Ali
 
-20 yaşında Bilgisayar Programcısı bir genç.
+20 y/o Coumpuer Programmer
 
-## 🛠️ Yetenekler & Araçlar
+## 🛠️ Skills & Tools
 * HTML
 * CSS
 * Javascript
@@ -11,11 +11,11 @@
 * C++
 
 
-## 📂 Projeler
+## 📂 Projects
 
-* 🔹 Çizgi İzleyen Robot
+* 🔹 Line Tracker Robot
   Beyaz zemin üzerindeki siyah çizgiyi takip eden otonom robot projesi.
 
-## 📫 İletişim
+## 📫 Contact
 
 * 📧 Email: alialtuntas1official@gmail.com
