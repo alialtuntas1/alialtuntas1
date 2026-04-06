@@ -1,6 +1,6 @@
 # 👋Hi, I'm Ali
 
-20 y/o Coumpuer Programmer
+20 y/o Computer Programmer
 
 ## 🛠️ Skills & Tools
 * HTML
