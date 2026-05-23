@@ -1,21 +1,3 @@
-# 👋Hi, I'm Ali
+<h1 align="center">Hi 👋 I'm Ali</h1>
 
-20 y/o Computer Programmer
-
-## 🛠️ Skills & Tools
-* HTML
-* CSS
-* Javascript
-* Python
-* C#
-* C++
-
-
-## 📂 Projects
-
-* 🔹 Line Tracker Robot
-  Beyaz zemin üzerindeki siyah çizgiyi takip eden otonom robot projesi.
-
-## 📫 Contact
-
-* 📧 Email: alialtuntas1official@gmail.com
+I am a computer programmer interested in web development, artificial intelligence, and embedded systems.
